@@ -12,7 +12,7 @@
 
 - Stack: Next.js / React / TypeScript / Firebase / Recharts / Vitest
 - Source: https://github.com/shunsoco-stack/sales-management-system
-- Demo: 未公開
+- Demo: https://sales-management-system-three-sage.vercel.app/demo/
 
 ### 在庫管理システム
 
