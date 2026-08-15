@@ -6,6 +6,14 @@
 
 ## 公開中のプロジェクト
 
+### 売上管理システム
+
+売上登録、目標管理、顧客・商品・担当者・店舗別分析、CSV、監査ログを統合したConcept Projectです。整数円の金額計算とFirestore Security Rulesを重点的に検証しています。
+
+- Stack: Next.js / React / TypeScript / Firebase / Recharts / Vitest
+- Source: https://github.com/shunsoco-stack/sales-management-system
+- Demo: 未公開
+
 ### 在庫管理システム
 
 複数拠点の入出庫、在庫移動、棚卸、履歴、権限、CSVを一元管理するConcept Projectです。Firebase Security RulesとEmulatorテストまで含めて検証しています。
@@ -25,7 +33,7 @@
 
 ## 現在公開している領域
 
-- 業務システム: 入出庫、棚卸、履歴、検索、権限を扱う在庫管理
+- 業務システム: 売上、在庫、履歴、検索、分析、権限を扱う業務データ管理
 - 業務支援Webアプリ: 税金・社会保険料の概算と資金見通しの可視化
 - 品質設計: TypeScript、Vitest、Testing Library、Firebase Emulator / Rulesテスト、静的解析
 
