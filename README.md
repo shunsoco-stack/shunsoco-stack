@@ -6,6 +6,15 @@
 
 ## 公開中のプロジェクト
 
+### AI調達・仕入先選定エージェント
+
+調達要件から、Evidence付きのSupplier調査、不足情報の再調査、通常コードによる重み付き評価、交渉Draft、Human Reviewまでを一つのWorkspaceで支援するConcept Projectです。
+
+- Stack: Next.js 16 / React 19 / TypeScript / Zod / Vitest / Vercel
+- Demo: https://ai-procurement-supplier-agent.vercel.app
+- Source: https://github.com/shunsoco-stack/ai-procurement-supplier-agent
+- Note: Verified snapshot / External AI OFF / Human approval required
+
 ### 売上管理システム
 
 売上登録、目標管理、顧客・商品・担当者・店舗別分析、CSV、監査ログを統合したConcept Projectです。整数円の金額計算とFirestore Security Rulesを重点的に検証しています。
@@ -33,6 +42,7 @@
 
 ## 現在公開している領域
 
+- AIエージェント: 根拠付きの調査、比較、不足情報の再調査、評価、Human Reviewを扱う意思決定支援
 - 業務システム: 売上、在庫、履歴、検索、分析、権限を扱う業務データ管理
 - 業務支援Webアプリ: 税金・社会保険料の概算と資金見通しの可視化
 - 品質設計: TypeScript、Vitest、Testing Library、Firebase Emulator / Rulesテスト、静的解析
